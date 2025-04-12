@@ -1,0 +1,44 @@
+.cat-list {
+  display: flex;
+  list-style: none;
+  /* margin-top: 3vh; */
+  width: 80vw;
+  flex-wrap: wrap;
+  row-gap: 1vh;
+  /* margin-bottom: 3vh; */
+}
+.mascara {
+  background-color: rgb(188, 209, 177);
+}
+
+.foundation {
+  background-color: rgb(234, 208, 151);
+}
+
+.powder {
+  background-color: rgba(227, 233, 138, 0.872);
+}
+
+.contour {
+  background-color: rgb(237, 224, 200);
+}
+
+.highlighter {
+  background-color: rgb(233, 230, 188);
+}
+
+.blush {
+  background-color: rgb(235, 194, 213);
+}
+
+.eyeshadow {
+  background-color: rgb(184, 200, 237);
+}
+
+.brows {
+  background-color: rgb(195, 173, 183);
+}
+
+.primer {
+  background-color: rgb(175, 229, 156);
+}

@@ -1,0 +1,25 @@
+.btn {
+  border-radius: 20px;
+  border: 2px solid rgb(244, 74, 187);
+  padding: 0.8em;
+  width: fit-content;
+  background-color: rgb(254, 239, 241);
+  color: rgb(18, 19, 20);
+  text-transform: capitalize;
+}
+
+.btn-cat {
+  border-radius: 20px;
+  border: 2px solid rgba(174, 174, 177, 0.485);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 0.8em;
+  width: fit-content;
+  color: rgb(46, 46, 47);
+  text-transform: capitalize;
+  margin-right: 0.8em;
+}
+
+.btn-add-use {
+  /* margin-left: 1em;
+  margin-top: 2em; */
+}
