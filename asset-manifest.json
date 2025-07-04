@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alenavin/My-Makeup-Bag/static/css/main.2d798789.css",
-    "main.js": "/alenavin/My-Makeup-Bag/static/js/main.211fd5b0.js",
-    "static/media/rhode.webp": "/alenavin/My-Makeup-Bag/static/media/rhode.883a25fa1e0048268a18.webp",
-    "index.html": "/alenavin/My-Makeup-Bag/index.html",
-    "main.2d798789.css.map": "/alenavin/My-Makeup-Bag/static/css/main.2d798789.css.map",
-    "main.211fd5b0.js.map": "/alenavin/My-Makeup-Bag/static/js/main.211fd5b0.js.map"
+    "main.css": "/My-Makeup-Bag/static/css/main.2d798789.css",
+    "main.js": "/My-Makeup-Bag/static/js/main.94109754.js",
+    "static/media/rhode.webp": "/My-Makeup-Bag/static/media/rhode.883a25fa1e0048268a18.webp",
+    "index.html": "/My-Makeup-Bag/index.html",
+    "main.2d798789.css.map": "/My-Makeup-Bag/static/css/main.2d798789.css.map",
+    "main.94109754.js.map": "/My-Makeup-Bag/static/js/main.94109754.js.map"
   },
   "entrypoints": [
     "static/css/main.2d798789.css",
-    "static/js/main.211fd5b0.js"
+    "static/js/main.94109754.js"
   ]
 }
