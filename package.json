@@ -1,7 +1,7 @@
 {
   "name": "my-makeup-bag",
   "version": "0.1.0",
-  "homepage": "https://github.com/alenavin/My-Makeup-Bag",
+  "homepage": "https://alenavin.github.io/My-Makeup-Bag",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
